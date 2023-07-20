@@ -1,5 +1,12 @@
-NationIcons
+game.png
 size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+NationIcons/Lyndania 
+  rotate: false
+  xy: 1866, 153
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
