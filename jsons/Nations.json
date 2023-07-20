@@ -1,31 +1,24 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
+		"name": "Lyndania",
+		"leaderName": "Antonella",
+		"adjective": ["lindiano"],
 		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "mmmaaaammmmmmaaaaahueso",
+		"attacked": "mira cono etu mareeeeee",
+		"defeated": "eso fue por plata conchr etu mdre por ke esoson pnas mios",
+		"introduction": "Guenos dyas",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "oHla",
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "chao",
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		
+		
+		"tradeRequest": "mira yo te doy esto y tu me das eso porque lo yo tengo es mejor",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
